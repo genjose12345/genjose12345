@@ -40,8 +40,6 @@ Aspiring software developer with a strong foundation in Computer Science, hands-
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-1F77B4?style=plastic&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=genjose12345&show_icons=true&theme=blue-green&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-genjose1231@gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white)](mailto:genjose1231@gmail.com)
