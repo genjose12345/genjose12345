@@ -9,6 +9,14 @@ Aspiring software developer with a strong foundation in Computer Science, hands-
 - 📚 Goals: Pursuing Masters and PhD in Computer Science
 - 🔨 Current Project: Developing an AI-based Cloud computing network traffic controller using AWS
 
+## Connect
+
+[![Gmail](https://img.shields.io/badge/Gmail-genjose1231@gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white)](mailto:genjose1231@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-rodriguez-9a982b224)
+
+[![Phone](https://img.shields.io/badge/Phone-706--618--1178-25D366?style=plastic&logo=whatsapp&logoColor=white)](tel:706-618-1178)
+
 ## Skills & Technologies
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=genjose12345&show_icons=true&&theme=blue-green&rank_icon=github&include_all_commits=true)
@@ -38,5 +46,6 @@ Aspiring software developer with a strong foundation in Computer Science, hands-
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
 ![Miniconda](https://img.shields.io/badge/Miniconda-44A833?style=plastic&logo=anaconda&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-1F77B4?style=plastic&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=genjose12345&show_icons=true&theme=blue-green&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
