@@ -3,11 +3,11 @@
 Aspiring software developer with a strong foundation in Computer Science, hands-on project experience, and a passion for creating innovative solutions. Skilled in Java and Python, with a focus on building practical applications and a keen interest in AI and software engineering.
 
 ## Bio
-Job: IS/Devloper 
+Job: IS/Devloper for Mohawk Industries
 
 hobbies: working out, learning new langauges and frameworks and spending time at home with friends and family. 
 
-Goals:getting my Masters and Phd in computer science 
+Goals: getting my Masters and Phd in computer science 
 
 Projects: currently devloping an AI based Cloud computing network traffic controller useing AWS
 
