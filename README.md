@@ -39,6 +39,9 @@ Aspiring software developer with a strong foundation in Computer Science, hands-
 ![Miniconda](https://img.shields.io/badge/Miniconda-44A833?style=plastic&logo=anaconda&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-1F77B4?style=plastic&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
+
 
 ## Connect
 
