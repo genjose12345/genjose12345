@@ -1,6 +1,6 @@
 # Hello, I'm Jose Rodriguez
 
-Aspiring software developer with a strong foundation in Computer Science, hands-on project experience, and a passion for creating innovative solutions. Skilled in Java and Python, with a focus on building practical applications and a keen interest in AI and software engineering.
+Aspiring AI and cloud developer with a deep fascination for artificial intelligence and distributed systems, driven by the goal of advancing both AI technology and cloud computing through innovative solutions. Skilled in Python and cloud platforms, with a focus on developing intelligent systems and scalable architectures, passionate about contributing to the next generation of AI and cloud infrastructure breakthroughs.
 
 ## Bio
 
