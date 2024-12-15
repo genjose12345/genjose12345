@@ -30,6 +30,7 @@ Aspiring software developer with a strong foundation in Computer Science, hands-
 ### Tools & Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-web-services&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-FF6600?style=plastic&logo=mysql&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=plastic&logo=dbeaver&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-D3201C?style=plastic&logo=apache-maven&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-E3271B?style=plastic&logo=apache&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=plastic&logo=npm&logoColor=white)
@@ -42,6 +43,14 @@ Aspiring software developer with a strong foundation in Computer Science, hands-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
 
+### AWS Cloud Services
+![EC2](https://img.shields.io/badge/EC2-F37C20?style=plastic&logo=amazonec2&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-9951F5?style=plastic&logo=amazonvpc&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-E83F6F?style=plastic&logo=amazoncloudwatch&logoColor=white)
+![S3](https://img.shields.io/badge/S3-2CBE4E?style=plastic&logo=amazons3&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=plastic&logo=awslambda&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-00B9BF?style=plastic&logo=amazonsagemaker&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-E63946?style=plastic&logo=amazoniam&logoColor=white)
 
 ## Connect
 
