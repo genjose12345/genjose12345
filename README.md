@@ -53,6 +53,7 @@ Aspiring AI and cloud developer with a deep fascination for artificial intellige
 ![IAM](https://img.shields.io/badge/IAM-E63946?style=plastic&logo=amazoniam&logoColor=white)
 ![CloudShell](https://img.shields.io/badge/CloudShell-0058A5?style=plastic&logo=awscloudshell&logoColor=white)
 ![Amplify](https://img.shields.io/badge/Amplify-FF9900?style=plastic&logo=awsamplify&logoColor=white)
+![EFS](https://img.shields.io/badge/EFS-7AB800?style=plastic&logo=amazonefs&logoColor=white)
 
 ## Connect
 
