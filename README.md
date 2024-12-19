@@ -43,19 +43,52 @@ Aspiring AI and cloud developer with a deep fascination for artificial intellige
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
 
+<table align="center">
+<tr>
+<td colspan="2" align="center">
+
 ### AWS Cloud Services
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### Compute & Containers
 ![EC2](https://img.shields.io/badge/EC2-F37C20?style=plastic&logo=amazonec2&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-9951F5?style=plastic&logo=amazonvpc&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-E83F6F?style=plastic&logo=amazoncloudwatch&logoColor=white)
-![S3](https://img.shields.io/badge/S3-2CBE4E?style=plastic&logo=amazons3&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=plastic&logo=awslambda&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-00B9BF?style=plastic&logo=amazonsagemaker&logoColor=white)
+![Elastic Beanstalk](https://img.shields.io/badge/Elastic_Beanstalk-FF9900?style=plastic&logo=awselasticbeanstalk&logoColor=white)
+
+#### Networking & Security
+![VPC](https://img.shields.io/badge/VPC-9951F5?style=plastic&logo=amazonvpc&logoColor=white)
 ![IAM](https://img.shields.io/badge/IAM-E63946?style=plastic&logo=amazoniam&logoColor=white)
-![CloudShell](https://img.shields.io/badge/CloudShell-0058A5?style=plastic&logo=awscloudshell&logoColor=white)
-![Amplify](https://img.shields.io/badge/Amplify-FF9900?style=plastic&logo=awsamplify&logoColor=white)
+
+#### AI/ML & Analytics
+![SageMaker](https://img.shields.io/badge/SageMaker-00B9BF?style=plastic&logo=amazonsagemaker&logoColor=white)
+
+</td>
+<td width="50%">
+
+#### Storage & Databases
+![S3](https://img.shields.io/badge/S3-2CBE4E?style=plastic&logo=amazons3&logoColor=white)
 ![EFS](https://img.shields.io/badge/EFS-7AB800?style=plastic&logo=amazonefs&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=plastic&logo=amazondynamodb&logoColor=white)
 ![RDS](https://img.shields.io/badge/RDS-4053D6?style=plastic&logo=amazonrds&logoColor=white)
+
+#### Monitoring & Development
+![CloudWatch](https://img.shields.io/badge/CloudWatch-E83F6F?style=plastic&logo=amazoncloudwatch&logoColor=white)
+![CloudShell](https://img.shields.io/badge/CloudShell-0058A5?style=plastic&logo=awscloudshell&logoColor=white)
+![Amplify](https://img.shields.io/badge/Amplify-FF9900?style=plastic&logo=awsamplify&logoColor=white)
+
+#### Infrastructure as Code & CI/CD
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=plastic&logo=awscloudformation&logoColor=white)
+![Infrastructure Composer](https://img.shields.io/badge/Infrastructure_Composer-4053D6?style=plastic&logo=awsinfrastructurecomposer&logoColor=white)
+![CodeCommit](https://img.shields.io/badge/CodeCommit-FF9900?style=plastic&logo=awscodecommit&logoColor=white)
+![CodePipeline](https://img.shields.io/badge/CodePipeline-4353FF?style=plastic&logo=awscodepipeline&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ## Connect
 
