@@ -9,9 +9,18 @@ Aspiring AI and cloud developer with a deep fascination for artificial intellige
 - 📚 Goals: Pursuing Masters and PhD in Computer Science
 - 🔨 Current Project: Developing an AI-based Cloud computing network traffic controller using AWS
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=genjose12345&show_icons=true&&theme=blue-green&rank_icon=github&include_all_commits=true)
+
+<table align="center">
+<tr>
+<td colspan="2" align="center">
+
 ## Skills & Technologies
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=genjose12345&show_icons=true&&theme=blue-green&rank_icon=github&include_all_commits=true)
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-FF4C00?style=plastic&logo=openjdk&logoColor=white)
@@ -27,13 +36,8 @@ Aspiring AI and cloud developer with a deep fascination for artificial intellige
 ![React](https://img.shields.io/badge/React-00D8FF?style=plastic&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
 
-### Tools & Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-web-services&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-FF6600?style=plastic&logo=mysql&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=plastic&logo=dbeaver&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-D3201C?style=plastic&logo=apache-maven&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-E3271B?style=plastic&logo=apache&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=plastic&logo=npm&logoColor=white)
+</td>
+<td width="50%">
 
 ### Data Science & ML
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
@@ -43,7 +47,15 @@ Aspiring AI and cloud developer with a deep fascination for artificial intellige
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
 
-<table align="center">
+### Tools & Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-web-services&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-FF6600?style=plastic&logo=mysql&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=plastic&logo=dbeaver&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-D3201C?style=plastic&logo=apache-maven&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-E3271B?style=plastic&logo=apache&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=plastic&logo=npm&logoColor=white)
+</td>
+</tr>
 <tr>
 <td colspan="2" align="center">
 
