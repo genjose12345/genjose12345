@@ -52,6 +52,7 @@ Aspiring AI and cloud developer with a deep fascination for artificial intellige
 ![CloudShell](https://img.shields.io/badge/CloudShell-0058A5?style=plastic&logo=awscloudshell&logoColor=white)
 ![Amplify](https://img.shields.io/badge/Amplify-FF9900?style=plastic&logo=awsamplify&logoColor=white)
 ![EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=plastic&logo=amazoneventbridge&logoColor=white)
+![CloudTrail](https://img.shields.io/badge/CloudTrail-FF4F8B?style=plastic&logo=amazoncloudtrail&logoColor=white)
 
 #### Infrastructure as Code & CI/CD
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=plastic&logo=awscloudformation&logoColor=white)
