@@ -15,50 +15,6 @@ Aspiring AI and cloud developer with a deep fascination for artificial intellige
 <tr>
 <td colspan="2" align="center">
 
-## Skills & Technologies
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-FF4C00?style=plastic&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3474A7?style=plastic&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFDD00?style=plastic&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/R-1E90FF?style=plastic&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=plastic&logo=mathworks&logoColor=white)
-![C](https://img.shields.io/badge/C-4A90E2?style=plastic&logo=c&logoColor=white)
-
-### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-FF5722?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=plastic&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-00D8FF?style=plastic&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
-
-</td>
-<td width="50%">
-
-### Data Science & ML
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
-![Miniconda](https://img.shields.io/badge/Miniconda-44A833?style=plastic&logo=anaconda&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1F77B4?style=plastic&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
-
-### Tools & Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-web-services&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-FF6600?style=plastic&logo=mysql&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=plastic&logo=dbeaver&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-D3201C?style=plastic&logo=apache-maven&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-E3271B?style=plastic&logo=apache&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=plastic&logo=npm&logoColor=white)
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
 ### AWS Cloud Services
 
 </td>
@@ -74,6 +30,9 @@ Aspiring AI and cloud developer with a deep fascination for artificial intellige
 #### Networking & Security
 ![VPC](https://img.shields.io/badge/VPC-9951F5?style=plastic&logo=amazonvpc&logoColor=white)
 ![IAM](https://img.shields.io/badge/IAM-E63946?style=plastic&logo=amazoniam&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route_53-7B42BC?style=plastic&logo=amazonroute53&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=plastic&logo=amazoncloudfront&logoColor=white)
+![AWSCertificate Manager](https://img.shields.io/badge/Certificate_Manager-FF3B30?style=plastic&logo=amazonacm&logoColor=white)
 
 #### AI/ML & Analytics
 ![SageMaker](https://img.shields.io/badge/SageMaker-00B9BF?style=plastic&logo=amazonsagemaker&logoColor=white)
@@ -101,8 +60,6 @@ Aspiring AI and cloud developer with a deep fascination for artificial intellige
 </td>
 </tr>
 </table>
-
-![Route 53](https://img.shields.io/badge/Route_53-7B42BC?style=plastic&logo=amazonroute53&logoColor=white)
 
 ## Connect
 
