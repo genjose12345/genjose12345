@@ -26,6 +26,7 @@ Aspiring AI and cloud developer with a deep fascination for artificial intellige
 ![EC2](https://img.shields.io/badge/EC2-F37C20?style=plastic&logo=amazonec2&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=plastic&logo=awslambda&logoColor=white)
 ![Elastic Beanstalk](https://img.shields.io/badge/Elastic_Beanstalk-FF9900?style=plastic&logo=awselasticbeanstalk&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS-FF9900?style=plastic&logo=amazonecs&logoColor=white)
 
 #### Networking & Security
 ![VPC](https://img.shields.io/badge/VPC-9951F5?style=plastic&logo=amazonvpc&logoColor=white)
