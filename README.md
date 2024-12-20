@@ -102,6 +102,8 @@ Aspiring AI and cloud developer with a deep fascination for artificial intellige
 </tr>
 </table>
 
+![Route 53](https://img.shields.io/badge/Route_53-7B42BC?style=plastic&logo=amazonroute53&logoColor=white)
+
 ## Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-genjose1231@gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white)](mailto:genjose1231@gmail.com)
