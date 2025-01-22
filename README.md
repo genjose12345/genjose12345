@@ -93,7 +93,14 @@ Aspiring AI and cloud developer with a deep fascination for artificial intellige
 ![RDS](https://img.shields.io/badge/RDS-4053D6?style=plastic&logo=amazonrds&logoColor=white)
 ![ElastiCache](https://img.shields.io/badge/ElastiCache-4053D6?style=plastic&logo=amazonec2&logoColor=white)
 ![Redshift](https://img.shields.io/badge/Redshift-8A2BE2?style=plastic&logo=amazonredshift&logoColor=white)
-
+![EMR](https://img.shields.io/badge/EMR-8A2BE2?style=plastic&logo=amazonemr&logoColor=white)
+![Athena](https://img.shields.io/badge/Athena-8A2BE2?style=plastic&logo=amazonathena&logoColor=white)
+![Neptune](https://img.shields.io/badge/Neptune-4053D6?style=plastic&logo=amazonneptune&logoColor=white)
+![TimeStream](https://img.shields.io/badge/TimeStream-4053D6?style=plastic&logo=amazontimestream&logoColor=white)
+![QLDB](https://img.shields.io/badge/QLDB-4053D6?style=plastic&logo=amazonqldb&logoColor=white)
+![Managed Blockchain](https://img.shields.io/badge/Managed_Blockchain-FF9900?style=plastic&logo=amazonblockchain&logoColor=white)
+![Glue](https://img.shields.io/badge/Glue-8A2BE2?style=plastic&logo=amazonglue&logoColor=white)
+![DMS](https://img.shields.io/badge/DMS-4053D6?style=plastic&logo=amazondms&logoColor=white)
 
 #### Monitoring & Development
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-E83F6F?style=plastic&logo=amazoncloudwatch&logoColor=white)
@@ -101,6 +108,7 @@ Aspiring AI and cloud developer with a deep fascination for artificial intellige
 ![Amplify](https://img.shields.io/badge/Amplify-FF9900?style=plastic&logo=awsamplify&logoColor=white)
 ![EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=plastic&logo=amazoneventbridge&logoColor=white)
 ![CloudTrail](https://img.shields.io/badge/CloudTrail-FF4F8B?style=plastic&logo=amazoncloudtrail&logoColor=white)
+![QuickSight](https://img.shields.io/badge/QuickSight-8A2BE2?style=plastic&logo=amazonquicksight&logoColor=white)
 
 #### Infrastructure as Code & CI/CD
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=plastic&logo=awscloudformation&logoColor=white)
