@@ -91,6 +91,8 @@ Aspiring AI and cloud developer with a deep fascination for artificial intellige
 ![EFS](https://img.shields.io/badge/EFS-7AB800?style=plastic&logo=amazonefs&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=plastic&logo=amazondynamodb&logoColor=white)
 ![RDS](https://img.shields.io/badge/RDS-4053D6?style=plastic&logo=amazonrds&logoColor=white)
+![ElastiCache](https://img.shields.io/badge/ElastiCache-4053D6?style=plastic&logo=amazonec2&logoColor=white)
+
 
 #### Monitoring & Development
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-E83F6F?style=plastic&logo=amazoncloudwatch&logoColor=white)
