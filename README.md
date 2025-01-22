@@ -92,6 +92,7 @@ Aspiring AI and cloud developer with a deep fascination for artificial intellige
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=plastic&logo=amazondynamodb&logoColor=white)
 ![RDS](https://img.shields.io/badge/RDS-4053D6?style=plastic&logo=amazonrds&logoColor=white)
 ![ElastiCache](https://img.shields.io/badge/ElastiCache-4053D6?style=plastic&logo=amazonec2&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-8A2BE2?style=plastic&logo=amazonredshift&logoColor=white)
 
 
 #### Monitoring & Development
