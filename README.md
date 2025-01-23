@@ -30,10 +30,17 @@ Passionate about advancing AI technology and cloud computing through innovative 
 ![Python](https://img.shields.io/badge/Python-3474A7?style=plastic&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=plastic&logo=mathworks&logoColor=white)
 
-### **Web Technologies**
-![HTML5](https://img.shields.io/badge/HTML5-FF5722?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=plastic&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-00D8FF?style=plastic&logo=react&logoColor=black)
+### **Cloud Computing**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-web-services&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-F37C20?style=plastic&logo=amazonec2&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=plastic&logo=awslambda&logoColor=white)
+![S3](https://img.shields.io/badge/S3-2CBE4E?style=plastic&logo=amazons3&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-4053D6?style=plastic&logo=amazonrds&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=plastic&logo=amazondynamodb&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=plastic&logo=awscloudformation&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-E63946?style=plastic&logo=amazoniam&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-E83F6F?style=plastic&logo=amazoncloudwatch&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-00B9BF?style=plastic&logo=amazonsagemaker&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -53,23 +60,6 @@ Passionate about advancing AI technology and cloud computing through innovative 
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=plastic&logo=dbeaver&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-E3271B?style=plastic&logo=apache&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=plastic&logo=npm&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center" valign="top">
-
-### **Cloud Computing**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-web-services&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-F37C20?style=plastic&logo=amazonec2&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=plastic&logo=awslambda&logoColor=white)
-![S3](https://img.shields.io/badge/S3-2CBE4E?style=plastic&logo=amazons3&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-4053D6?style=plastic&logo=amazonrds&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=plastic&logo=amazondynamodb&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=plastic&logo=awscloudformation&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-E63946?style=plastic&logo=amazoniam&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-E83F6F?style=plastic&logo=amazoncloudwatch&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-00B9BF?style=plastic&logo=amazonsagemaker&logoColor=white)
 
 </td>
 </tr>
