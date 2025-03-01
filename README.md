@@ -14,20 +14,6 @@ Passionate about advancing AI technology and cloud computing through innovative 
 
 ---
 
-## 💼 Professional Experience
-
-### Machine Learning Intern | Mohawk Industries
-- Developed deep learning computer vision model using PyTorch and Python to classify carpet styles with 95% accuracy
-- Processed large carpet image datasets for model training using Python and OpenCV
-- Built data pipeline to transform raw images into ML-ready training data
-
-### IS/Developer Intern | Mohawk Industries
-- Developed and maintained critical software for international deployment using Java, JavaFX and SQL
-- Created and optimized SQL queries for efficient data management across large datasets
-- Developed API endpoints integrating HTTP requests and SQL queries
----
-
-
 <table align="center">
 <tr>
 <td colspan="2" align="center">
@@ -86,7 +72,18 @@ Passionate about advancing AI technology and cloud computing through innovative 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=genjose12345&show_icons=true&theme=blue-green&rank_icon=github&include_all_commits=true)
 
 ---
+## 💼 Professional Experience
 
+### Machine Learning Intern | Mohawk Industries
+- Developed deep learning computer vision model using PyTorch and Python to classify carpet styles with 95% accuracy
+- Processed large carpet image datasets for model training using Python and OpenCV
+- Built data pipeline to transform raw images into ML-ready training data
+
+### IS/Developer Intern | Mohawk Industries
+- Developed and maintained critical software for international deployment using Java, JavaFX and SQL
+- Created and optimized SQL queries for efficient data management across large datasets
+- Developed API endpoints integrating HTTP requests and SQL queries
+---
 ## 📫 Let's Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-genjose1231@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:genjose1231@gmail.com)
