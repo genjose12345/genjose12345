@@ -7,12 +7,26 @@ Passionate about advancing AI technology and cloud computing through innovative 
 
 ## 👨‍💻 About Me
 
-- **💼 Job**: IS/Developer at Mohawk Industries
+- **💼 Job**: Machine Learning Intern at Mohawk Industries
 - **🎯 Hobbies**: Working out, learning new languages/frameworks, and spending time with friends and family
 - **📚 Goals**: Pursuing a Master's and PhD in Computer Science
 - **🔨 Current Project**: Developing an AI-based cloud computing network traffic controller using AWS
 
 ---
+
+## 💼 Professional Experience
+
+### Machine Learning Intern | Mohawk Industries
+- Developed deep learning computer vision model using PyTorch and Python to classify carpet styles with 95% accuracy
+- Processed large carpet image datasets for model training using Python and OpenCV
+- Built data pipeline to transform raw images into ML-ready training data
+
+### IS/Developer Intern | Mohawk Industries
+- Developed and maintained critical software for international deployment using Java, JavaFX and SQL
+- Created and optimized SQL queries for efficient data management across large datasets
+- Developed API endpoints integrating HTTP requests and SQL queries
+---
+
 
 <table align="center">
 <tr>
