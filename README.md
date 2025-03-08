@@ -10,7 +10,7 @@ Passionate about advancing AI technology and cloud computing through innovative 
 - **💼 Job**: Machine Learning Intern at Mohawk Industries
 - **🎯 Hobbies**: Working out, learning new languages/frameworks, and spending time with friends and family
 - **📚 Goals**: Pursuing a Master's and PhD in Computer Science
-- **🔨 Current Project**: Developing an AI-based cloud computing network traffic controller using AWS
+- **🔨 Current Project**: I'm building an image classification model with PyTorch to sort images into different categories.
 
 ---
 
