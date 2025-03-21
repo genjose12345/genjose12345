@@ -3,7 +3,7 @@
 **Aspiring AI and Cloud Developer**    
 Passionate about advancing AI technology and cloud computing through innovative solutions. Skilled in Python, cloud platforms, and distributed systems, with a focus on building intelligent systems and scalable architectures
  
---- 
+---  
 
 ## 👨‍💻 About Me 
 
