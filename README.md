@@ -79,7 +79,7 @@ Passionate about advancing AI technology and cloud computing through innovative 
 - Processed large carpet image datasets for model training using Python and OpenCV
 - Built data pipeline to transform raw images into ML-ready training data
 
-### IS/Developer Intern | Mohawk Industries
+### Software Engineer Intern | Mohawk Industries
 - Developed and maintained critical software for international deployment using Java, JavaFX and SQL
 - Created and optimized SQL queries for efficient data management across large datasets
 - Developed API endpoints integrating HTTP requests and SQL queries
