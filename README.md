@@ -10,7 +10,7 @@ Passionate about advancing AI technology and cloud computing through innovative 
 - **💼 Job**: Machine Learning Intern at Mohawk Industries 
 - **🎯 Hobbies**: Working out, learning new languages/frameworks, and spending time with friends and family
 - **📚 Goals**: Pursuing a Master's and PhD in Computer Science
-- **🔨 Current Project**: building an ai chatbot that can responed play games
+- **🔨 Current Project**: building an ai chatbot that can responed and play games
 
 ---
 
