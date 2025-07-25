@@ -71,6 +71,22 @@ Passionate about advancing AI technology and cloud computing through innovative 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=genjose12345&show_icons=true&theme=blue-green&rank_icon=github&include_all_commits=true)
 
+## 🎓 Education
+
+### **Georgia Institute of Technology** | Atlanta, GA
+**Master of Science in Computer Science** *(Jan 2026 - May 2028)*
+- Pursuing advanced studies in AI/ML and distributed systems
+
+### **Kennesaw State University** | Kennesaw, GA  
+**Bachelor of Science in Computer Science** *(Aug 2023 - Dec 2025)*
+- **Active member of AI Club**, exploring cutting-edge technologies and machine learning algorithms
+- Focus on cloud computing, artificial intelligence, and software engineering
+
+### **Dalton State College** | Dalton, GA
+**Associate of Science in Computer Science** *(Jan 2021 - May 2023)*
+- **Dean's List recipient**, demonstrating academic excellence in computer science coursework
+- Built strong foundation in programming fundamentals and data structures
+
 ---
 ## 💼 Professional Experience
 
