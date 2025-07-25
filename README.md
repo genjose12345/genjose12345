@@ -80,9 +80,10 @@ Passionate about advancing AI technology and cloud computing through innovative 
 - Automated preprocessing workflows to convert raw carpet images into ML-ready training data, reducing manual processing time by 80% while applying principles of deep learning.
 
 ### Software Engineer Intern | Mohawk Industries
-- Developed and maintained critical software for international deployment using Java, JavaFX and SQL
-- Created and optimized SQL queries for efficient data management across large datasets
-- Developed API endpoints integrating HTTP requests and SQL queries
+- Developed and maintained critical software applications for international deployment, utilizing Java, Git, and SQL databases to ensure robust data interactions.
+- Designed and optimized SQL queries and database schemas, improving data processing efficiency by 10% and supporting data-driven decision-making.
+- Implemented RESTful API endpoints to integrate HTTP requests with SQL database operations, enabling seamless data interactions and technical support for product functionalities.
+- Collaborated on software architecture decisions and participated in code reviews, enhancing overall code quality and delivering successful project outcomes.
 ---
 ## 📫 Let's Connect
 
