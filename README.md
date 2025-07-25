@@ -75,9 +75,9 @@ Passionate about advancing AI technology and cloud computing through innovative 
 ## 💼 Professional Experience
 
 ### Machine Learning Intern | Mohawk Industries
-- Developed deep learning computer vision model using PyTorch and Python to classify carpet styles with 95% accuracy
-- Processed large carpet image datasets for model training using Python and OpenCV
-- Built data pipeline to transform raw images into ML-ready training data
+- Developed a deep learning computer vision model using PyTorch and Python to classify carpet styles and patterns with 95% validation accuracy, demonstrating advanced AI/ML techniques.
+- Engineered data pipelines with Python and OpenCV to process and transform image datasets for model training, aligning with efficient data processing and compliance processes.
+- Automated preprocessing workflows to convert raw carpet images into ML-ready training data, reducing manual processing time by 80% while applying principles of deep learning.
 
 ### Software Engineer Intern | Mohawk Industries
 - Developed and maintained critical software for international deployment using Java, JavaFX and SQL
