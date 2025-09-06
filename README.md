@@ -6,7 +6,7 @@ Passionate about advancing AI technology and cloud computing through innovative 
 ---     
  
 ## 👨‍💻 About Me  
-
+ 
 - **💼 Job**: Machine Learning Intern at Mohawk Industries 
 - **🎯 Hobbies**: Working out, learning new languages/frameworks, and spending time with friends and family
 - **📚 Goals**: Pursuing a Master's and PhD in Computer Science
